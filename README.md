@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio Project Documentations
+# Cybersecurity Projects Portfolio 
 
 # Contents
   - [TryHackMe Live Attack Challenge #1](https://github.com/abelmorad/TryHackMe-SOCL1-Snort_LiveAttack_BruteForce)
